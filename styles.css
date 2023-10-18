@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url("./images/star-bakcground.gif");
+    /* background-color: black; */
+    color: white;
+}
+
+.heading {
+    padding-top: 30px;
+
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.info-container {
+    width: 500px;
+}
